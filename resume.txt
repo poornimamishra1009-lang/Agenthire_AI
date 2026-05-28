@@ -1,0 +1,70 @@
+POORNIMA MISHRA
+Applied AI & Machine Learning Engineer • mishrapoornima2401@gmail.com • Contact: 7231866349 • LinkedIn • GitHub •
+Hyderabad, India
+PROFESSIONAL SUMMARY
+Applied AI & Machine Learning Engineer specializing in LLMs, multi-agent systems, scalable AI pipelines, and production-grade GenAI
+and computer vision solutions for enterprise applications.
+EDUCATION
+National Institute of Technology (NIT), Warangal
+B.Tech in Mechanical Engineering, Minor in Mathematics & Computing — CGPA: 8.03/10
+EXPERIENCE
+RTX–Applied Research & Technology
+AI / ML Engineer Trainee, Hyderabad
+Jan 2025– Present
+• Designed and deployed computer vision and ML pipelines for OCR-based document intelligence, processing 1,000+ engineering documents and
+improving structured data extraction accuracy by 30%.
+• Orchestrated end-to-end AI workflows covering data ingestion, preprocessing, inference, and validation, reducing manual effort by 40%.
+• Designed and implemented a robust validation and evaluation framework using Tesseract OCR extraction, achieving 98% accuracy, tracked via
+MLflowandevaluated using JIWER metrics.
+• Built a multi-layered validation pipeline combining regex-based rules, NLP techniques, and statistical checks, reducing inconsistencies by 25%, and
+ensured reliability through unit testing and scalable deployment pipelines.
+RTX–Collins Aerospace, Interiors
+Research Intern– AI & Automation, Hyderabad
+• Developed YOLO + OCR-based pipelines achieving 95% accuracy in engineering drawing feature extraction.
+• Automated Worst-Case and RSS tolerance analysis, reducing manual engineering effort by 50%.
+• Integrated AI outputs with NX (NXOpen APIs) enabling seamless downstream engineering workflows.
+AI-Based Airport Video Analytics System
+Python, Computer Vision, FastAPI, Apache Kafka
+• Built a real-time multi-camera video analytics pipeline using Apache Kafka and FastAPI for scalable surveillance systems.
+• Developed YOLO-based object detection and activity recognition models for passenger monitoring and anomaly detection.
+• Engineered end-to-end video processing pipeline improving detection robustness using advanced vision techniques and image enhancement.
+PROJECTS
+2025
+Enterprise Secure RAG System
+Python, LangChain, Groq (Llama 3.3 70B), ChromaDB, Streamlit, PyPDF
+• Architected an end-to-end RAG pipeline enabling secure querying of enterprise documents using Llama 3.3 70B via Groq LPUs.
+• Implemented Role-Based Access Control (RBAC) using ChromaDB metadata filtering ensuring strict data isolation across user roles.
+• Engineered dynamic document ingestion and chunking pipelines (recursive splitting: 1000 size / 100 overlap) for real-time embedding.
+• Developed an interactive Streamlit interface supporting real-time indexing, permission control, and transparent source attribution.
+Multi-Agent AI Code Generation System
+Python, LangChain, Groq, LLM Agents, File Systems
+• Built a multi-agent LLM pipeline (Planner, Architect, Coder) for automated full-stack project generation.
+• Designed modular agent architecture ensuring consistent context sharing and reasoning across agents.
+• Engineered a file-system execution bridge converting LLM outputs into structured multi-file codebases.
+• Optimized inference latency using Llama 3.3 models on Groq LPUs, enabling high-speed generation.
+TECHNICAL SKILLS
+2026
+2025
+Programming:
+Frontend & Backend:
+Databases & Storage:
+AI/ML &DeepLearning:
+Python, SQL, MATLAB
+React.js, HTML, CSS, REST API Development (FastAPI)
+MySQL, PostgreSQL, ChromaDB, Vector Databases
+Supervised/Unsupervised Learning, CNNs, Transformers, PyTorch, TensorFlow, Keras, Hyperparameter Tuning
+Computer Vision & GenAI: YOLO, OCR,Image Processing, Video Analytics, LLMs, LangChain, RAG, Multi-Agent Systems, Prompt Engineering
+MLOps&Systems:
+End-to-End Pipelines, Model Deployment, Monitoring, MLflow, Embeddings, Semantic Search
+Dev Practices:
+Tools & Platforms:
+ACHIEVEMENTS
+Git/Gitlab, Code Reviews, Unit Testing, Integration Testing, Agile/Scrum
+Groq (LPU), Streamlit, Docker, AWS, GCP
+• Patent filed for AI-based engineering intelligence solution (under review).
+• Received Idea Champion Award from Innovation Council.
+• Recipient of Academic Excellence Certificate (Indian Army).
+• Awarded LIC Student of the Year.
+LEADERSHIP & ENGAGEMENT
+• Joint Secretary, Mechanical Engineering Association– led technical initiatives.
+• Active contributor to AI research and innovation-driven projects.

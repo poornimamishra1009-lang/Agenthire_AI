@@ -1,0 +1,17 @@
+Poornima Mishra
+
+Skills:
+Python
+FastAPI
+MLflow
+Docker
+Git
+Computer Vision
+
+Experience:
+1 year Applied AI and R&D experience
+
+Interested Roles:
+AI Engineer
+GenAI Engineer
+Data Scientist

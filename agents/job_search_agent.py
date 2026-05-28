@@ -5,8 +5,16 @@ def search_jobs(experience, skills, salary, location):
 
     jobs = fetch_jobs()
 
-    user_salary = int(salary.replace("LPA", "").strip())
+    # user_salary = int(salary.replace("LPA", "").strip())
+    try:
 
+        user_salary = int(
+            salary.replace("LPA", "").strip()
+        )
+
+    except:
+
+        user_salary = 0
     user_skills = [skill.strip().lower() for skill in skills.split(",")]
 
     filtered_jobs = []

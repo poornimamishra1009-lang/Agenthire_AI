@@ -37,20 +37,34 @@ location = st.sidebar.text_input(
     "Preferred Location",
     placeholder="Remote"
 )
-
+uploaded_resume = st.sidebar.file_uploader(
+    "Upload Resume (.txt)",
+    type=["txt"]
+)
 # Search Button
 search_button = st.sidebar.button("Search Jobs")
 
 
 # Main Logic
 if search_button:
+    resume_text = ""
 
+    if uploaded_resume is not None:
+
+        resume_text = uploaded_resume.read().decode("utf-8")
     payload = {
-        "experience": experience,
-        "skills": skills,
-        "salary": salary,
-        "location": location
-    }
+    "experience": experience,
+    "skills": skills,
+    "salary": salary,
+    "location": location,
+    "resume_text": resume_text
+    }   
+    # payload = {
+    #     "experience": experience,
+    #     "skills": skills,
+    #     "salary": salary,
+    #     "location": location
+    # }
 
     with st.spinner("Searching AI-recommended jobs..."):
 
